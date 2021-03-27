@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Leslie Book</h1>
 <h3 align="center">A Cisco Certified Network Engineer and Full Stack Web Developer</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leskbook&label=Profile%20views&color=0e75b6&style=flat" alt="leskbook" /> </p>
 
 - 📫 How to reach me **lesliek.book@gmail.com**
