@@ -6,7 +6,7 @@
 
 <h3 align="left">Subscribe to my YouTube Channel:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCQlfsuDOCUbsMGhAfIp0cKg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="morebooktech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCQlfsuDOCUbsMGhAfIp0cKg" target="blank"><img align="center" src="./youtube.jpg" height="40" width="75" /></a>
 </p>
 <h3 align="left">Check out my Portfolio:</h3>
 <p align="left">
