@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋, I'm Leslie Book</h1>
+<h1 align="left">👋, I'm Leslie Book</h1>
 <h3 align="center">A Full Stack Web Developer and a Cisco Certified Network Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leskbook&label=Profile%20views&color=0e75b6&style=flat" alt="leskbook" /> </p>
 
