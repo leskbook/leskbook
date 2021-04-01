@@ -1,5 +1,5 @@
 <h3 align="left">Leslie Book here, hello! 👋 </h3>
-<h3 align="center">A Full Stack Web Developer and a Cisco Certified Network Engineer</h3>
+<h3 align="left">I am a Full Stack Web Developer and a Cisco Certified Network Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leskbook&label=Profile%20views&color=0e75b6&style=flat" alt="leskbook" /> </p>
 
 - 📫 How to reach me **lesliek.book@gmail.com**
