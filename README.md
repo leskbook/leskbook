@@ -13,11 +13,15 @@
 <a href="https://github.com/leskbook/homework2Portfolio" target="blank"><img align="center" src="./portfolio.png" alt="portfolio" height="30" width="40" /></a>
 </p>
 <h4 align="left">I am proficient in these tools, languages and technologies:</h4>
-<p align="left">
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=colorBlue)
+![](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white&color=colorBlue)
+![](https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white&color=colorBlue)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=Visual_Studio_Code&logoColor=white&color=colorBlue)
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=colorBlue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=colorBlue)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plastic&logo=gnu-bash&logoColor=white&color=colorBlue)
+![](https://img.shields.io/badge/OS-Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white&color=colorBlue)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leskbook&show_icons=true&locale=en&layout=compact" alt="leskbook" /></p>
