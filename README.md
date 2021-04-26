@@ -1,9 +1,10 @@
-<h3 align="left">Leslie Book here, hello! 👋 </h3>
+<h3 align="left">👋 Leslie Book here!</h3>
 <h3 align="left">I am a Full Stack Web Developer and a Cisco Certified Network Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leskbook&label=Profile%20views&color=0e75b6&style=flat" alt="leskbook" /> </p>
 
-- 📫 How to reach me **lesliek.book@gmail.com**
 
+<h3 align="left">How to reach me:</h3><br>
+
+📫 **lesliek.book@gmail.com**
 <h4 align="left">Connect via LinkedIn:</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/lesliebook" target="blank"><img align="center" src="./linkedin.png" height="40" width="40" /></a>
@@ -56,3 +57,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leskbook&show_icons=true&locale=en&layout=compact" alt="leskbook" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leskbook&show_icons=true&locale=en" alt="leskbook" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leskbook&label=Profile%20views&color=0e75b6&style=flat" alt="leskbook" /> </p>
