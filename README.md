@@ -4,14 +4,14 @@
 
 - 📫 How to reach me **lesliek.book@gmail.com**
 
-<h4 align="left>Connect with me on LinkedIN: </h4>
+<h4 align="left">Connect via LinkedIn:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/lesliebook" target="blank"><img align="center" src="./linkedin.jpg/></a>
+<a href="https://www.linkedin.com/in/lesliebook" target="blank"><img align="center" src="./linkedin.png" height="40" width="40" /></a>
 </p>
               
 <h4 align="left">Subscribe to my YouTube Channel:</h4>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCQlfsuDOCUbsMGhAfIp0cKg" target="blank"><img align="center" src="./youtube.jpg" height="40" width="75" /></a>
+<a href="https://www.youtube.com/channel/UCQlfsuDOCUbsMGhAfIp0cKg" target="blank"><img align="center" src="./youtube.jpg" height="40" width="80" /></a>
 </p>
 <h4 align="left">Check out my Portfolio:</h4>
 <p align="left">
