@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/-Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/-Raspberry_Pi-A22846?style=plastic&logo=linux-mint&logoColor=white)
 ![](https://img.shields.io/badge/-Cisco-1BA0D7?style=plastic&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/-Ansible-EE0000?style=plastic&logo=ansible&logoColor=white)
 ![](https://img.shields.io/badge/-Citrix-452170?style=plastic&logo=citrix&logoColor=white)
 ![](https://img.shields.io/badge/-VMware-607078?style=plastic&logo=vmware&logoColor=white)
 ![](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white)
