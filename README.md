@@ -16,7 +16,7 @@
 </p>
 <h4 align="left">Check out my Portfolio:</h4>
 <p align="left">
-<a href="https://github.com/leskbook/homework2Portfolio" target="blank"><img align="center" src="./portfolio.png" alt="portfolio" height="30" width="40" /></a>
+<a href="https://leskbook.github.io/proportfolio/" target="blank"><img align="center" src="./portfolio.png" alt="portfolio" height="30" width="40" /></a>
 
 <h4 align="left">I am proficient in these tools, languages and technologies:</h4>
 
@@ -40,9 +40,11 @@
 ![](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/-Gnu_Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=white)
+![](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/-Material_UI-0081CB?style=plastic&logo=material-UI&logoColor=white)
 ![](https://img.shields.io/badge/-React%20Router-CA4245?style=plastic&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Sass-CC6699?style=plastic&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=plastic&logo=linux-mint&logoColor=white)
 ![](https://img.shields.io/badge/-Powershell-5391FE?style=plastic&logo=powershell&logoColor=white)
