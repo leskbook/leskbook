@@ -1,5 +1,5 @@
 <h3 align="left">👋 Leslie Book here!</h3>
-<h3 align="left">I am a Full Stack Web Developer and a Cisco Certified Network Engineer</h3>
+<h3 align="left">I am a Cisco Certified engineer and aspire to improve my coding skills</h3>
 
 
 <h3 align="left">How to reach me:</h3><br>
@@ -9,14 +9,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/lesliebook" target="blank"><img align="center" src="./linkedin.png" height="40" width="40" /></a>
 </p>
-              
-<h4 align="left">Subscribe to my YouTube Channel:</h4>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCQlfsuDOCUbsMGhAfIp0cKg" target="blank"><img align="center" src="./youtube.jpg" height="40" width="80" /></a>
-</p>
-<h4 align="left">Check out my Portfolio:</h4>
-<p align="left">
-<a href="https://leskbook.github.io/proportfolio/" target="blank"><img align="center" src="./portfolio.png" alt="portfolio" height="30" width="40" /></a>
+          
 
 <h4 align="left">I am proficient in these tools, languages and technologies:</h4>
 
